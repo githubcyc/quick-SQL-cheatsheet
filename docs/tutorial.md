@@ -32,4 +32,13 @@
 * [A Beginner’s Guide to Data Engineering — Part II – Robert Chang](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
 * :star:[Big Data Analysis: **Hive**, Spark SQL, DataFrames and GraphFrames | Coursera](https://www.coursera.org/learn/big-data-analysis)
 * :star:[soar: SQL Optimizer And Rewriter](https://github.com/XiaoMi/soar)
-  
+* :heart:[MySQL规范](https://www.cnblogs.com/duaimili/p/10277515.html)
+* [MySQL 8 install on Windows](https://blog.csdn.net/xxfamly/article/details/81356728)
+
+## MySQL Tools
+
+* [Bifrost ---- 将 MySQL 数据 实时同步 到 Redis , MongoDB 等服务的高性能异构中间件](https://github.com/brokercap/Bifrost)
+* [archer: 基于inception的自动化SQL操作平台，支持SQL执行、LDAP认证、发邮件、OSC、SQL查询、SQL优化建议、权限管理等功能，支持docker镜像](https://github.com/jly8866/archer)
+* [goInception: 一个集审核、执行、备份及生成回滚语句于一身的MySQL运维工具](https://github.com/hanchuanchuan/goInception)
+* [myide/see: 基于开源组件（Inception & SQLAdvisor & SOAR）的SQL审核&SQL优化的Web平台](https://github.com/myide/see)
+* [Meituan-Dianping/Zebra: 美团点评集团统一使用的MySQL数据库访问层的中间件。主要提供对业务开发透明、读写分库、分库分表能力，并提供了端到端SQL监控的集成方案。](https://github.com/Meituan-Dianping/Zebra)
